@@ -2,7 +2,11 @@
 Hello!!! This is our first project for our group in this class. 
 
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|      Projec Role     |    Student    |
+| -------------------- | ------------- |
+| UI Developer         | Khushi        |
+| Front-End Developer  | Jill          |
+| Back-End Developer   | Akshay        |
+| Database Specialist  | Kashyap       |
+
+Here in this
